@@ -31,7 +31,7 @@ pip install -r requirements.txt
 cd recruitement_platform
 
 # Apply migrations and start the server
-```bash
+
 1-  python3 manage.py makemigrations
 
 2-  python3 manage.py migrate
