@@ -27,7 +27,7 @@ Follow these steps to set up the project:
 pip install -r requirements.txt
 
 # Navigate to the project folder
-```bash
+
 cd recruitement_platform
 
 # Apply migrations and start the server
