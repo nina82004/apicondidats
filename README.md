@@ -8,8 +8,7 @@ Resumes uploaded by users are stored in a /resumes directory.
 * This app allows you to:
      * Create, delete, and update a candidate.
      * Create, delete, and update a recruiter.
-  
-      * Access individual candidates or recruiters.
+     * Access individual candidates or recruiters.
   
 # Installation
 Follow these steps to set up the project:
