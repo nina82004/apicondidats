@@ -14,12 +14,12 @@ Resumes uploaded by users are stored in a /resumes directory.
 Follow these steps to set up the project:
 
 # Clone the repository
-```bash
+
 - git clone https://github.com/nina82004/apicondidats.git
 - cd apicondidats
----
+
 # Open the project in VS Code
-```bash
+
   code .
 
 # Install dependencies
