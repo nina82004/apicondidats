@@ -38,5 +38,6 @@ cd recruitement_platform
 
 3-  python3 manage.py runserver
 
+```
 * You can now access the app at http://127.0.0.1:8000/.
 
