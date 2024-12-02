@@ -19,16 +19,19 @@ Follow these steps to set up the project:
 - cd apicondidats
 
 # Open the project in VS Code
-
+```bash
   code .
 
 # Install dependencies
+```bash
 pip install -r requirements.txt
 
 # Navigate to the project folder
+```bash
 cd recruitement_platform
 
 # Apply migrations and start the server
+```bash
 1-  python3 manage.py makemigrations
 
 2-  python3 manage.py migrate
