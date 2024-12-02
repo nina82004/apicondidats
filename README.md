@@ -29,7 +29,9 @@ cd recruitement_platform
 
 # Apply migrations and start the server
 1-  python3 manage.py makemigrations
+
 2-  python3 manage.py migrate
+
 3-  python3 manage.py runserver
 
 * You can now access the app at http://127.0.0.1:8000/.
