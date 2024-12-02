@@ -17,7 +17,7 @@ Follow these steps to set up the project:
 ```bash
 - git clone https://github.com/nina82004/apicondidats.git
 - cd apicondidats
-
+---
 # Open the project in VS Code
 ```bash
   code .
