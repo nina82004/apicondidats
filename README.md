@@ -18,7 +18,8 @@ Follow these steps to set up the project:
 - cd apicondidats
 
 # Open the project in VS Code
-code .
+
+  code .
 
 # Install dependencies
 pip install -r requirements.txt
