@@ -1,8 +1,8 @@
-#APICondidats
+# APICondidats
 This project includes two modules:
 
--Candidate Module: Defines the necessary fields to identify a candidate.
--Recruiter Module: Defines the necessary fields to identify a recruiter.
+* Candidate Module: Defines the necessary fields to identify a candidate.
+* Recruiter Module: Defines the necessary fields to identify a recruiter.
 # Details
 -Resumes uploaded by users are stored in a /resumes directory.
 * This app allows you to:
